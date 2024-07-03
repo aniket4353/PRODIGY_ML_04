@@ -1,0 +1,1 @@
+This project focuses on developing and implementing algorithms for recognizing various hand gestures using machine learning techniques. It employs image processing and computer vision tools to enhance gesture detection accuracy, making it suitable for practical applications
